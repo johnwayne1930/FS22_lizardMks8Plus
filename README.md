@@ -11,5 +11,5 @@ _%\Documents\My Games\FarmingSimulator2022\mods_ directory
 * activate the mod ingame
 
 #### Installation ModHub:
-* download [Pallet Storage And Logistics (johnwayne1930)](https://farming-simulator.com/mod.php?mod_id=289608) from the ingame Modhub
+* download [Lizard MKS 8 Plus (johnwayne1930)](https://farming-simulator.com/mod.php?mod_id=289608) from the ingame Modhub
 * activate the mod ingame
